@@ -150,8 +150,9 @@ Currently focused on learning full-stack mobile app development and web developm
 <hr>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal-sangavat&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&area_color=764ba2&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal-sangavat&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&area_color=adefff&hide_border=true" width="100%"/>
 </div>
+
 <hr>
 
 Thanks :)
