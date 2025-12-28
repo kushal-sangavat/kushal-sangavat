@@ -1,5 +1,10 @@
-<h1 align="center">Kushal Sangavat</h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Kushal%20Sangavat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Application%20Developer%20|%20Web%20Developer%20|%20GenAI%20Explorer&descSize=20&descAlignY=55"/>
+<hr>
+</div>
+
 <h4 align="center"><i>"Computer Science undergrad passionate about building clean and functional mobile apps and websites."</i></h4>
+<!-- <h1 align="center">Kushal Sangavat</h1> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kushal-sangavat-3b8b55206/">
@@ -23,15 +28,18 @@
   </a>
 </div>
 
-
----
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
+<br/>
 
 ## 👨‍💻 About Me
 
 I’m a Computer Science undergraduate at J.K. Lakshmipat University, Jaipur.  
 Currently focused on learning full-stack mobile app development and web development, building real-world projects using Flutter, Firebase, Supabase, modern APIs, and React, Mongodb.
 
-## 💻 Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>  Tech Universe
 
 ### 🚀 Mobile App Development  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
