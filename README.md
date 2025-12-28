@@ -89,3 +89,7 @@ Currently focused on learning full-stack mobile app development and web developm
 <hr>
 
 Thanks :)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer"/>
+</div>
