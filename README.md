@@ -42,40 +42,137 @@ Currently focused on learning full-stack mobile app development and web developm
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>  Tech Universe
 
 ### 🚀 Mobile App Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<table style="width:100%; table-layout: fixed;">
+  <tr align="center">
+    <td><b>Flutter</b></td>
+    <td><b>Kotlin</b></td>
+    <td><b>Dart</b></td>
+    <td><b>Android Studio</b></td>
+    <td><b>Firebase</b></td>
+    <td><b>Supabase</b></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45"/></td>
+  </tr>
+</table>
+
 
 ### 🧠 Programming Languages  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+<table style="width:100%; table-layout: fixed;">
+  <tr align="center">
+    <td><b>React</b></td>
+    <td><b>C</b></td>
+    <td><b>C++</b></td>
+    <td><b>Java</b></td>
+    <td><b>Solidity</b></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="45"/>
+    </td>
+  </tr>
+</table>
+
 
 ### ⚙️ Backend & APIs  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+<table style="width:100%; table-layout: fixed;">
+  <tr align="center">
+    <td><b>Node.js</b></td>
+    <td><b>FastAPI</b></td>
+    <td><b>REST API</b></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" width="45"/>
+    </td>
+  </tr>
+</table>
+
 
 ### 💾 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<table style="width:100%; table-layout: fixed;">
+  <tr align="center">
+    <td><b>MongoDB</b></td>
+    <td><b>PostgreSQL</b></td>
+    <td><b>SQL</b></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+    </td>
+  </tr>
+</table>
+
 
 ### 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<table style="width:100%; table-layout: fixed;">
+  <tr align="center">
+    <td><b>Git</b></td>
+    <td><b>GitHub</b></td>
+    <td><b>VS Code</b></td>
+    <td><b>Android Studio</b></td>
+    <td><b>Docker</b></td>
+    <td><b>Postman</b></td>
+    <td><b>Figma</b></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="45" style="filter: invert(1);" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+    </td>
+  </tr>
+</table>
+
 
 ### 🌐 Languages  
 ![English](https://img.shields.io/badge/English-Fluent-success?style=for-the-badge)
+&nbsp;
 ![Hindi](https://img.shields.io/badge/Hindi-Native-orange?style=for-the-badge)
 
 
