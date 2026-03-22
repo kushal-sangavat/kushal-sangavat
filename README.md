@@ -69,17 +69,16 @@ Currently focused on learning full-stack mobile app development and web developm
     <td><b>C</b></td>
     <td><b>C++</b></td>
     <td><b>Java</b></td>
-    <td><b>Solidity</b></td>
+    <td><b>C#</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/></td>
   </tr>
 </table>
-
 
 ### ⚙️ Backend & APIs  
 <table style="width:100%; table-layout: fixed;">
@@ -87,11 +86,13 @@ Currently focused on learning full-stack mobile app development and web developm
     <td><b>Node.js</b></td>
     <td><b>FastAPI</b></td>
     <td><b>REST API</b></td>
+    <td><b>.NET Core</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" width="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"/></td>
   </tr>
 </table>
 
@@ -118,18 +119,20 @@ Currently focused on learning full-stack mobile app development and web developm
     <td><b>GitHub</b></td>
     <td><b>VS Code</b></td>
     <td><b>Android Studio</b></td>
-    <td><b>Docker</b></td>
     <td><b>Postman</b></td>
     <td><b>Figma</b></td>
+    <td><b>Visual Studio 2022</b></td>
+    <td><b>pgAdmin4</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/></td>
     <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="45" style="filter: invert(1);"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/></td>
   </tr>
 </table>
 
