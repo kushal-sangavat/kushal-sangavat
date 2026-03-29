@@ -34,7 +34,7 @@
 </div>
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> **About me**
 
 I’m a Computer Science undergraduate at J.K. Lakshmipat University, Jaipur.  
 Currently focused on learning full-stack mobile app development and web development, building real-world projects using Flutter, Firebase, Supabase, modern APIs, and React, Mongodb.
