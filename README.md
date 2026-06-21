@@ -18,10 +18,10 @@
   <a href="mailto:kushalsangavat.36@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" />
-  </a>
+  </a> -->
   &nbsp;
   <a href="https://github.com/kushal-sangavat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
